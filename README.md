@@ -14,6 +14,9 @@ The project includes the solution for data structure I from leetcode study plan.
 ### Day4
 - 566
 - 118
+### Day5
+- 36
+- 74
 
 # Reference
 https://leetcode.com/study-plan/data-structure/
