@@ -31,6 +31,10 @@ The project includes the solution for data structure I from leetcode study plan.
 ### Day9
 - 20
 - 232
+### Day10
+- 144
+- 94
+- 145
 
 # Reference
 https://leetcode.com/study-plan/data-structure/
